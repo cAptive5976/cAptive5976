@@ -1,15 +1,14 @@
-# Welcome to my GitHub!
-
-## 📚 About Me
-Hi, I'm Charles, a student in the Bachelor's program in Networks and Telecommunications at the University of Clermont-Auvergne. I love testing new things and learning new programming languages.
+# Bienvenue sur mon GitHub !
+## 📚 À propos de moi
+Moi, c'est Charles, je suis en BUT Réseaux et Télécommunications a l'Université Clermont-Auvergne, j'aime tester des trucs, apprendre des languages
 ---
 ![kazuha](https://presseplay.fr/wp-content/uploads/2022/09/1156263-1-scaled.jpg)
 
 ---
 
-## 🛠️ My Tools
+## 🛠️ Mes outils
 
-### Programming Languages I Use
+### Les languages que j'utilise
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,25 +19,25 @@ Hi, I'm Charles, a student in the Bachelor's program in Networks and Telecommuni
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks & Bibliothèques
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Databases
+### Bases de données
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Development Environments
+### Environnements de développement
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Networking and Internet
+### Réseaux et Internet
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Stormshield](https://img.shields.io/badge/Stormshield-0080FF?style=for-the-badge&logo=stormshield&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -46,11 +45,11 @@ Hi, I'm Charles, a student in the Bachelor's program in Networks and Telecommuni
 ![GNS3](https://img.shields.io/badge/GNS3-00A9E0?style=for-the-badge&logo=gns3&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### Cybersecurity/Pentest
+### Cybersécurité/Pentest
 ![Metasploit](https://img.shields.io/badge/Metasploit-0579C3?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF681A?style=for-the-badge&logo=burp-suite&logoColor=black)
 
-### Operating Systems
+### Systèmes d'exploitation
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-00A4EF?style=for-the-badge&logo=microsoft-windows-server&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -59,17 +58,18 @@ Hi, I'm Charles, a student in the Bachelor's program in Networks and Telecommuni
 
 ---
 
-## 🔥 My Passions and Interests
-- ⛩️ Mangas
-- 🔵🤞🏻🔴🤌🏻🫴🏻🟣 Animes
-- 🎶 All types of music
-- 📺 TV Shows
-- 🚴 Cycling
-- 🎮 Various video games
+## 🔥 Mes passions et centres d'intérêts
+
+- ⛩️ **Mangas**
+- 🔵🤞🏻🔴🤌🏻🫴🏻🟣 **Animes**
+- 🎶 **Musique tous genres**
+- 📺 **Séries**
+- 🚴 **Cyclisme**
+- 🎮 **Jeux Vidéos divers**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 ![cAptive's GitHub stats](https://github-readme-stats.vercel.app/api?username=cAptive5976&show_icons=true&theme=radical)
 
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=cAptive5976&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -77,5 +77,5 @@ Hi, I'm Charles, a student in the Bachelor's program in Networks and Telecommuni
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cAptive5976&theme=github_dark)
 ---
 ---
-## Other languages
-[![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white)](README-fr.md)
+## Autres langues
+[![Anglais](https://img.shields.io/badge/Anglais-0078D4?style=for-the-badge&logo=language&logoColor=white)](README.md)
